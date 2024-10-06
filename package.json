@@ -9,7 +9,8 @@
   },
   "engines": {
     "node": ">=16.x"
-  },  "scripts": {
+  },  
+  "scripts": {
     "analyze": "npm run build && source-map-explorer build/static/js/*.chunk.js",
     "build": "rimraf ./build && react-scripts build",
     "lint": "eslint \"**/*.js\"",
