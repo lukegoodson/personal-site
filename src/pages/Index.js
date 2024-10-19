@@ -17,7 +17,7 @@ const Index = () => (
             <Link to="/">Welcome to my site about... well me!</Link>
           </h2>
           <p>
-            Take a look around and learn a little more about me :) This site is statically-generated and created using react application
+            This site is statically-generated and created using react application
             written with modern Javascript.
           </p>
         </div>
