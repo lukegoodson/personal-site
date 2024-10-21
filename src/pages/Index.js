@@ -23,8 +23,7 @@ const Index = () => (
       </header>
       <p>
         {' '}
-        Welcome to my website! I&apos;m Luke Goodson, an experienced Business Intelligence Analyst with a passion for transforming raw data into actionable insights.{' '}
-        I specialise in data analysis, visualisation, and crafting impactful solutions that drive decision-making.{' '}
+        Welcome to my website!{' '}
         Within my <Link to="/resume">resume</Link>, you&apos;ll find an overview of my professional journey, the skills I&apos;ve developed, or you can check out my{' '}
         <Link to="/projects">Projects</Link> that highlight some of my expertise.{' '}
         Whether you&apos;re looking to explore my work or learn more <Link to="/about">about</Link> me, I hope this site provides valuable insight into my contributions and capabilities.{' '}

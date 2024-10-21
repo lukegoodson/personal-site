@@ -22,7 +22,8 @@ const SideBar = () => (
     <section className="blurb">
       <h2>About</h2>
       <p>
-        Hi, I&apos;m Luke. Here is a little about me...
+        Hi, I&apos;m Luke Goodson, an experienced Business Intelligence Analyst with a passion for transforming raw data into actionable insights.{' '}
+        I specialise in data analysis, visualisation, and crafting impactful solutions that drive decision-making.{' '}
       </p>
       <ul className="actions">
         <li>
