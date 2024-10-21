@@ -14,21 +14,21 @@ const Index = () => (
       <header>
         <div className="title">
           <h2>
-            <Link to="/">Welcome to my site about... well me!</Link>
+            <Link to="/">Welcome to my Professional Portfolio</Link>
           </h2>
           <p>
-            This site is statically-generated and created using react application
-            written with modern Javascript.
+            Explore my work, skills, and Professional journey here!
           </p>
         </div>
       </header>
       <p>
         {' '}
-        Welcome to my website. Please feel free to read more{' '}
-        <Link to="/about">about me</Link>, or you can check out my{' '}
-        <Link to="/resume">resume</Link>, <Link to="/projects">projects</Link>,{' '}
-        view <Link to="/stats">site statistics</Link>, or{' '}
-        <Link to="/contact">contact</Link> me.
+        Welcome to my website! I&apos;m Luke Goodson, an experienced Business Intelligence Analyst with a passion for transforming raw data into actionable insights.{' '}
+        I specialise in data analysis, visualisation, and crafting impactful solutions that drive decision-making.{' '}
+        Within my <Link to="/resume">resume</Link>, you&apos;ll find an overview of my professional journey, the skills I&apos;ve developed, or you can check out my{' '}
+        <Link to="/projects">Projects</Link> that highlight some of my expertise.{' '}
+        Whether you&apos;re looking to explore my work or learn more <Link to="/about">about</Link> me, I hope this site provides valuable insight into my contributions and capabilities.{' '}
+        Thank you for visiting, and feel free to <Link to="/contact">reach</Link> out for any inquiries!
       </p>
     </article>
   </Main>
